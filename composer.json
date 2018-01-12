@@ -1,6 +1,5 @@
 {
 	"name": "bieleski/dwphp",
-	"version": "2.0.0",
 	"description": "Framework php7 with environment development, testing, staging and production.",
 	"keywords": ["Framework", "php", "Framework php7", "dwphp"],
 	"homepage": "https://github.com/bieleski/dwphp",
