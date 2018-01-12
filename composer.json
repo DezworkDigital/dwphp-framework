@@ -1,8 +1,8 @@
 {
-	"name": "bieleski/dwphp",
+	"name": "bieleski/dwphp-framework",
 	"description": "Framework php7 with environment development, testing, staging and production.",
-	"keywords": ["Framework", "php", "Framework php7", "dwphp"],
-	"homepage": "https://github.com/bieleski/dwphp",
+	"keywords": ["Framework", "php", "Framework php7", "dwphp", "dwphp-framework"],
+	"homepage": "https://github.com/bieleski/dwphp-framework",
 	"type": "library",
 	"license": "BSD-3-Clause",
 	"authors": [
