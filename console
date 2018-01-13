@@ -8,7 +8,8 @@
  * @Last Modified time: 2017-12-31 11:09:06
  */
 
-define('PATH_ROOT', str_replace('/dwphp/', '', dirname(__FILE__)));
+define('PATH_ROOT', str_replace('/vendor/dezwork/dwphp-framework/', '', dirname(__FILE__)));
+echo PATH_ROOT; exit();
 
 
 $command = isset($_GET['command']) ? $_GET['command'] : null;
